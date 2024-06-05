@@ -10,16 +10,16 @@
 
 
 
-Project Name : ZUSYCO - MD
+Project Name : Asitha - MD
 Creator : @darkmakerofc , @mr-nima-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
+  OWNER_NUMBER: "94705676116",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NAME: "『 MR ASITHA 』",
+  BOT_NAME : "ASITHA MD",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
